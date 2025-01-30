@@ -191,5 +191,5 @@ client.on("interactionCreate", async (interaction) => {
 
 startServer();
 
-client.login(process.env.TOKEN);
+client.login(MTMzNDU4ODM2MDI2MTM3Mzk2NQ.GidIHX.i_bwspcdCpR8Gif7CAXjp28cVW19b-Zsek5pHQ);
 //by SayAdam
